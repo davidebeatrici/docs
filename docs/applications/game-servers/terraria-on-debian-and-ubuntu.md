@@ -49,7 +49,7 @@ This guide will show you how to set up your own [Terraria](https://terraria.org/
 
 1.  Switch to your newly created account:
 
-        sudo -u terraria -i
+        su terraria
 
 2.  Download the latest version of Terraria Server from [Terraria.gamepedia.com](http://terraria.gamepedia.com/Server). Refer to the linked page to download the latest version. The current version as of this publication is 1.3.0.8:
 
