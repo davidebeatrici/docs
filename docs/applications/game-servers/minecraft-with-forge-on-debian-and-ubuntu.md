@@ -48,7 +48,7 @@ This guide will show you how to install your own Minecraft server with Forge on 
 
 1. Switch to your newly created account:
 
-        sudo -u minecraft -i
+        su minecraft
 
 2. Create a folder for Minecraft Forge server:
 
